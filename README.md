@@ -21,6 +21,9 @@
 - [`gh-stats.andcool.ru`](https://gh-stats.andcool.ru) – Домен для форка статистики GitHub профилей
   - [Исходный код](https://github.com/Andcool-Systems/gh-stats)
   - [Оригинальный проект](https://github.com/PressJump/reimaginedreadme)
+- [`status.andcool.ru`](https://status.andcool.ru) – Страница статусов 
+  - [Исходный код](https://github.com/Andcool-Systems/Uptime)
+
 
 
 ## pplbandage.ru
