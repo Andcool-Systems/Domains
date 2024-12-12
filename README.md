@@ -25,7 +25,6 @@
   - [Исходный код](https://github.com/Andcool-Systems/Uptime)
 
 
-
 ## pplbandage.ru
 Отдельный домен для проекта [PPLBandage](https://github.com/PPLBandage)
 
