@@ -19,7 +19,7 @@
 - [`fu.andcool.ru`](https://fu.andcool.ru) – Сервис для удобного обмена файлами
   - [Исходный код](https://github.com/Andcool-Systems/File-uploader)
 - [`json-stats.andcool.ru`](https://json-stats.andcool.ru) – Виджет со статистикой для моего GitHub профиля
-  - [Исходный код](https://github.com/Andcool-Systems/json-stats))
+  - [Исходный код](https://github.com/Andcool-Systems/json-stats)
 - [`status.andcool.ru`](https://status.andcool.ru) – Страница статусов 
   - [Исходный код](https://github.com/Andcool-Systems/Uptime)
 
