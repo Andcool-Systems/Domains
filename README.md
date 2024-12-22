@@ -18,9 +18,8 @@
   - [Исходный код](https://github.com/Andcool-Systems/Discord-OpenGraph)
 - [`fu.andcool.ru`](https://fu.andcool.ru) – Сервис для удобного обмена файлами
   - [Исходный код](https://github.com/Andcool-Systems/File-uploader)
-- [`gh-stats.andcool.ru`](https://gh-stats.andcool.ru) – Домен для форка статистики GitHub профилей
-  - [Исходный код](https://github.com/Andcool-Systems/gh-stats)
-  - [Оригинальный проект](https://github.com/PressJump/reimaginedreadme)
+- [`json-stats.andcool.ru`](https://json-stats.andcool.ru) – Виджет со статистикой для моего GitHub профиля
+  - [Исходный код](https://github.com/Andcool-Systems/json-stats))
 - [`status.andcool.ru`](https://status.andcool.ru) – Страница статусов 
   - [Исходный код](https://github.com/Andcool-Systems/Uptime)
 
@@ -31,3 +30,4 @@
 - [`pplbandage.ru`](https://pplbandage.ru) – Основной сайт проекта
   - [Исходный код](https://github.com/PPLBandage/pplbandage_site)
 - `oauth.pplbandage.ru` – Псевдоним для домена `auth.mc-oauth.andcool.ru`
+- [`old.pplbandage.ru`](https://old.pplbandage.ru) – Старая (v2.0) версия сайта. Использует последнюю версию API
