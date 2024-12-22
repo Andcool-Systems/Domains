@@ -1,7 +1,7 @@
 # Список всех доменных имен для моих проектов
 
 ## andcool.ru
-Также существует домен `andcool.me`, который перенаправляет на основной домен все запросы.
+Также существуют домены [`andcool.me`](https://andcool.me) и [`andcool.systems`](https://andcool.systems), которые перенаправляют все запросы на основной домен.
 
 - [`andcool.ru`](https://andcool.ru) – Основной сайт-визитка.
   - [Исходный код](https://github.com/Andcool-Systems/andcool-site-v3)
