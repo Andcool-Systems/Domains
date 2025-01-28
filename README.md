@@ -22,6 +22,8 @@
   - [Исходный код](https://github.com/Andcool-Systems/json-stats)
 - [`status.andcool.ru`](https://status.andcool.ru) – Страница статусов 
   - [Исходный код](https://github.com/Andcool-Systems/Uptime)
+- [`wallpapers.andcool.ru`](https://wallpapers.andcool.ru) – Небольшая библиотека живых и интерактивных обоев для Wallpaper Engine
+  - Исходники мне лень выкладывать, там ничего интересного
 
 
 ## pplbandage.ru
