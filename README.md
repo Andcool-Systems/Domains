@@ -27,7 +27,7 @@
 
 
 ## pplbandage.ru
-Отдельный домен для проекта [PPLBandage](https://github.com/PPLBandage)
+Отдельный домен для проекта [PPLBandage](https://github.com/PPLBandage), а также шорткат для него [`pplb.ru`](https://pplb.ru)
 
 - [`pplbandage.ru`](https://pplbandage.ru) – Основной сайт проекта
   - [Исходный код](https://github.com/PPLBandage/pplbandage_site)
